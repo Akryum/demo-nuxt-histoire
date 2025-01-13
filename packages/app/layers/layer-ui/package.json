@@ -16,9 +16,9 @@
   "devDependencies": {
     "@histoire/plugin-nuxt": "^0.17.17",
     "@histoire/plugin-vue": "^0.17.17",
-    "@nuxt/kit": "^3.15.1",
+    "@nuxt/kit": "3.14.159",
     "histoire": "^0.17.17",
-    "nuxt": "^3.15.1",
+    "nuxt": "3.14.159",
     "vue": "latest",
     "vue-router": "latest"
   }
