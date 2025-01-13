@@ -6,4 +6,6 @@ export default defineNuxtConfig({
   css: [
     resolve('./styles/fonts.css'),
   ],
+
+  compatibilityDate: '2025-01-13',
 })
